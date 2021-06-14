@@ -3,13 +3,13 @@
     <!--Sections-->
     <string name="modules">Modules</string>
     <string name="superuser">Superuser</string>
-    <string name="logs">Logs</string>
-    <string name="settings">Settings</string>
-    <string name="refresh">Refresh Local Data</string>
-    <string name="install">Install</string>
-    <string name="section_home">Home</string>
-    <string name="section_theme">Themes</string>
-    <string name="safetynet">SafetyNet</string>
+    <string name="logs">বিবরণী</string>
+    <string name="settings">সেটিংস</string>
+    <string name="refresh">তথ্য হালনাগাদ</string>
+    <string name="install">ইন্সটল</string>
+    <string name="section_home">নীড়</string>
+    <string name="section_theme">আবহ</string>
+    <string name="safetynet">নিরাপত্তাজাল</string>
 
     <!--Home-->
     <string name="no_connection">No connection available</string>
